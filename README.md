@@ -1,5 +1,3 @@
-The issue is that the image URLs are not displaying properly because they're written as plain text instead of Markdown image syntax. Also, the badges need to be in proper Markdown format. Here's the corrected README.md:
-
 TNEH UID Cloner Tool
 
 <p align="center">
@@ -270,4 +268,4 @@ The key changes made:
 3. Added more badges for better visibility
 4. Formatted badges in a row for better display
 5. Added GitHub stats badges
-6. Added view counter at the bottom
+6. Added view counter at the bottomTNEH
