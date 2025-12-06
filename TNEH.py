@@ -84,7 +84,7 @@ except:print('\n Pycurl Module Error!\n Contact With Owner! ');exit()
 
 import random
 
-os.system('xdg-open https://bored-bronze-okgy2qmsxw.edgeone.dev/')
+os.system('xdg-open https://t.me/TNEH_AI_TOO_BOT')
 
 
 
