@@ -1,10 +1,10 @@
 # TNEH UID Cloner Tool
 
-# https://img.shields.io/badge/TNEH-CLONER-red
-# https://img.shields.io/badge/Python-3.7+-blue
-# https://img.shields.io/badge/License-MIT-green
-# https://img.shields.io/badge/Status-Active-brightgreen
-# https://img.shields.io/badge/GitHub-Noman3015237350-blue
+ https://img.shields.io/badge/TNEH-CLONER-red
+ https://img.shields.io/badge/Python-3.7+-blue
+ https://img.shields.io/badge/License-MIT-green
+ https://img.shields.io/badge/Status-Active-brightgreen
+ https://img.shields.io/badge/GitHub-Noman3015237350-blue
 
 A powerful UID cloning tool for Facebook accounts with old UID series support (2005-2014).
 
