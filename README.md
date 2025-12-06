@@ -1,5 +1,4 @@
-import
-TNEH UID Cloner Tool
+# TNEH UID Cloner Tool
 
 https://img.shields.io/badge/TNEH-CLONER-red
 https://img.shields.io/badge/Python-3.7+-blue
@@ -336,4 +335,4 @@ python tneh_cloner.py
 # Admin Key: 665577
 ```
 
-Happy ethical hacking! 🚀
+Happy ethical hacking! 🚀#TNEH
