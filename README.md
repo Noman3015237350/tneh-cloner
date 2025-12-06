@@ -1,4 +1,4 @@
-TNEH UID Cloner Tool
+# TNEH UID Cloner Tool
 
 <p align="center">
   <img src="https://img.shields.io/badge/TNEH-CLONER-red" alt="TNEH Cloner">
@@ -19,7 +19,7 @@ TNEH UID Cloner Tool
   <img src="https://img.shields.io/github/last-commit/Noman3015237350/tneh-cloner" alt="Last Commit">
 </p>
 
-📋 Features
+# 📋 Features
 
 · Multiple Year Methods: Supports UIDs from 2005 to 2014
 · Admin Authentication: Secure access with admin key protection
@@ -35,7 +35,7 @@ TNEH UID Cloner Tool
 · Result Saving: Automatically saves OK and CP results to files
 · Cross-Platform: Works on Termux (Android), Linux, and Windows
 
-🚀 Quick Start
+# 🚀 Quick Start
 
 ```bash
 # Clone repository
@@ -50,7 +50,7 @@ python tneh_cloner.py
 # Admin Key: 665577
 ```
 
-📁 Project Structure
+# 📁 Project Structure
 
 ```
 tneh-cloner/
@@ -62,7 +62,7 @@ tneh-cloner/
 └── LICENSE               # MIT License file
 ```
 
-🎯 Installation
+# 🎯 Installation
 
 Prerequisites
 
@@ -71,7 +71,7 @@ Prerequisites
 · Internet connection
 · Git (optional)
 
-Termux Installation (Android)
+# Termux Installation (Android)
 
 ```bash
 # Update packages
@@ -92,7 +92,7 @@ cd tneh-cloner
 pip install requests beautifulsoup4 rich httpx
 ```
 
-Linux Installation
+# Linux Installation
 
 ```bash
 # Install system dependencies
@@ -105,7 +105,7 @@ cd tneh-cloner
 pip3 install -r requirements.txt
 ```
 
-Windows Installation
+# Windows Installation
 
 ```bash
 # Install Python from python.org
@@ -117,7 +117,7 @@ cd tneh-cloner
 pip install -r requirements.txt
 ```
 
-📊 Usage Guide
+# 📊 Usage Guide
 
 Starting the Tool
 
@@ -132,7 +132,7 @@ python3 tneh_cloner.py
 python tneh_cloner.py
 ```
 
-Admin Authentication
+# Admin Authentication
 
 When you first run the tool, you'll be prompted for the admin key:
 
@@ -160,7 +160,7 @@ Setting Limits
 
 After selecting a method, enter the number of IDs to generate (e.g., 5000, 10000, 20000).
 
-🔧 Technical Details
+# 🔧 Technical Details
 
 Password List
 
@@ -181,7 +181,7 @@ Output Files
 · TNEH-OK.txt: Contains working accounts (format: UID|PASSWORD)
 · TNEH-CP.txt: Contains checkpoint accounts (format: UID|PASSWORD)
 
-⚠️ Disclaimer
+# ⚠️ Disclaimer
 
 IMPORTANT: This tool is for educational purposes only. Use only on accounts you own or have explicit permission to test.
 
@@ -192,7 +192,7 @@ Legal Notice
 · Respect privacy and follow all laws
 · Developer assumes no liability for misuse
 
-🛠️ Troubleshooting
+# 🛠️ Troubleshooting
 
 Common Issues & Solutions
 
@@ -216,7 +216,7 @@ Common Issues & Solutions
    · Use correct UID series
    · Increase ID limit
 
-🤝 Contributing
+# 🤝 Contributing
 
 Contributions welcome! Follow these steps:
 
@@ -226,17 +226,17 @@ Contributions welcome! Follow these steps:
 4. Push to branch (git push origin feature/AmazingFeature)
 5. Open Pull Request
 
-📞 Support & Issues
+# 📞 Support & Issues
 
 · GitHub Issues: Report Issues
 · Developer: Noman
 · Note: For security reasons, contact through GitHub only
 
-📄 License
+# 📄 License
 
 MIT License - See LICENSE file for details.
 
-🙏 Acknowledgments
+# 🙏 Acknowledgments
 
 · Developer: Noman
 · Team: TNEH CREW
@@ -245,7 +245,7 @@ MIT License - See LICENSE file for details.
 
 ---
 
-Remember: Ethical hacking only. Respect privacy and security.
+# Remember: Ethical hacking only. Respect privacy and security.
 
 Last Updated: December 2024
 Version: 1.0.0
